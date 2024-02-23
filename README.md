@@ -9,8 +9,6 @@
 
 - 📝 I occasionally write articles on [https://okarinadantas.medium.com/](https://okarinadantas.medium.com/)
 
-- 📫 How to reach me **karinadantasluiz@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/okarinadantas/](https://www.linkedin.com/in/okarinadantas/)
 
 <h3 align="left">Connect with me:</h3>
