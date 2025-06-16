@@ -3,7 +3,7 @@
 **Site Reliability Engineer | Cloud Enthusiast | DevSecOps Explorer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/okarinadantas)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dantasskarina)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/okarinadantas)
 
 ---
 
