@@ -36,5 +36,3 @@ Responsável por:
 - Automatização de processos CI/CD  
 - Gestão de incidentes e análise de problemas  
 
-**Support Analyst III (Jan/2022 - Mai/2023)**  
-Atuação focada em suporte avançado de infraestrutura e bancos de dados.
