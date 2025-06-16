@@ -1,38 +1,69 @@
-# 👩‍💻 Karina Dantas Luiz | Site Reliability Engineer | Cloud Enthusiast ☁️
+# 👩‍💻 Karina Dantas Luiz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-okarinadantas-blue?logo=linkedin)](https://www.linkedin.com/in/okarinadantas)  
-[![GitHub](https://img.shields.io/badge/GitHub-okarinadantas-black?logo=github)](https://github.com/okarinadantas)
+**Site Reliability Engineer | Cloud Enthusiast | DevSecOps Explorer**
 
----
-
-## 🌱 Sobre Mim
-
-Sou uma **Site Reliability Engineer (SRE)** apaixonada por **Cloud Infrastructure**, **Kubernetes** e **Terraform**.
-
-Desde 2018, venho construindo minha carreira em **suporte a sistemas**, com experiência em troubleshooting de aplicações **Java**, **C#**, **Python**, além de trabalhar com **bancos de dados SQL e NoSQL**.
-
-A partir de 2022, iniciei minha transição de carreira para a área de **Infraestrutura Cloud**, com foco principal em **Azure** e **AWS**, **Python** e **Bash**, **Docker** e **Terraform**, buscando sempre inovação e resolução de desafios complexos de infraestrutura.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/okarinadantas)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dantasskarina)
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧑‍💻 Sobre Mim
 
-- **Cloud:** Azure | AWS ☁️
-- **Containers:** Docker 🐳 | Kubernetes ☸️
-- **Infra as Code:** Terraform 🌱
-- **CI/CD:** Azure DevOps | GitHub Actions
-- **Linguagens:** Python 🐍 | SQL | NoSQL | Bash
-- **Outros:** RabbitMQ | Incident Response | Agile Methodologies | DevSecOps
+Sou apaixonada por tecnologia e por criar soluções que tragam **confiabilidade**, **performance** e **automação** para sistemas em nuvem. Minha carreira começou com suporte a aplicações em **Java**, **C#** e **Python**, mas desde 2022 venho me aprofundando em **Infraestrutura como Código (IaC)**, **Cloud Computing**, **Docker**, **Terraform** e **Kubernetes**.
+
+Atualmente, trabalho como **Site Reliability Engineer (SRE)** na **AmbevTech**, atuando diretamente com **Azure Cloud**, **CI/CD**, **observabilidade**, **resposta a incidentes** e **automação de infraestrutura**.
 
 ---
 
-## 🛠️ Experiência Profissional Atual
+## 🚀 Principais Skills
 
-### 🎯 Ambev Tech (2021 - Atual)
-**Site Reliability Engineer (desde Maio/2023)**  
-Responsável por:  
-- Garantir alta disponibilidade e performance dos sistemas  
-- Monitoramento contínuo da infraestrutura  
-- Automatização de processos CI/CD  
-- Gestão de incidentes e análise de problemas  
+- **Cloud:** Azure (IaaS, PaaS, SaaS)
+- **Containers:** Docker, Kubernetes
+- **Infraestrutura como Código:** Terraform
+- **Automação e CI/CD:** Azure DevOps, Git, Pipelines
+- **Linguagens:** Python, SQL, NoSQL
+- **Observabilidade e SRE:** Monitoramento, Performance, Incident Response
+- **Metodologias:** Agile, DevSecOps
+
+---
+
+## 🏅 Certificações
+
+- Vieses Inconscientes na Tomada de Decisão
+- Computação em Nuvem: Noções Básicas
+- DevSecOps: Tips for Success
+- Descubra o Azure DevOps
+- Databricks Fundamentals (Academy Accreditation)
+
+---
+
+## 🌱 Em Desenvolvimento
+
+Atualmente estou aprofundando meu conhecimento em:
+
+- **Kubernetes avançado**
+- **Terraform modules & automation patterns**
+- **Azure architecture best practices**
+- **Python para automação de infraestrutura**
+
+---
+
+## 📈 Trajetória Profissional
+
+| Cargo                           | Empresa      | Período         |
+|--------------------------------|--------------|----------------|
+| Site Reliability Engineer      | AmbevTech    | 2023 - Atual   |
+| Support Analyst III            | AmbevTech    | 2022 - 2023    |
+| IT Support Specialist          | VSI          | 2021 - 2022    |
+| Support Associate              | Avanade      | 2019 - 2021    |
+| Help Desk Trainee              | Dynamicca    | 2018 - 2019    |
+| Service Desk                   | Stefanini    | 2016 - 2017    |
+
+---
+
+## 🖥️ Contato
+
+🌍 [LinkedIn](https://www.linkedin.com/in/okarinadantas)  
+
+---
 
